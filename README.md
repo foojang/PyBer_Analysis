@@ -14,6 +14,9 @@
  averaging $39.50 per ride. And finally rural with 78 drivers avergining $55.49 per ride. 
  The average fare per ride is $24.53 for urban trips, $30.97 for suburban, and $34.62 for rural  
  
+ ![image](https://user-images.githubusercontent.com/95973377/151469783-35c7eab1-63bd-43f7-999a-9e60a0d5d652.png)
+ 
+ 
  
  
  *Summary*
